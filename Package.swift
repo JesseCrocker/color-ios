@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "color-ios",
+    name: "color_ios",
     platforms: [
         .iOS(.v12),
         .macCatalyst(.v13)
